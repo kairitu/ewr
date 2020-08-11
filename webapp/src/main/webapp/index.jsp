@@ -4,3 +4,4 @@
 <h1> Good job Jane on learning Devops</h1
 <h1> MY JOB IS WORKING, THANK YOU JESUS, IT TOOK ALOT OF TROUBLESHOOTING!!</H1>
 <h1>is this process really automated</h1>
+<h1> HAVING SO MUCH FUN WITH THE PIPELINE, ITS SOOO SWEEET</h1>
